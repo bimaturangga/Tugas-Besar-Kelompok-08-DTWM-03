@@ -1,0 +1,279 @@
+stop_id,stop_name,lat,lon,place_id,gmaps_name,rating,user_ratings_total,vicinity
+H00189P,Puri Beta 1,-6.230596,106.72602,ChIJO2xKf6jwaS4R7p2cTmzmyM8,Jln. Puri Beta Raya,,,Indonesia
+H00091P,JORR,-6.236104,106.75488,ChIJM-n_vsPwaS4R8qTNrGa2gUc,JORR,4.1,162.0,Indonesia
+H00050P,Duri Kepa,-6.185266,106.76842,ChIJSd6lUAL3aS4RlzF_TcBx0ek,Duri Kepa 1,2.9,112.0,Indonesia
+H00103P,Kebon Jeruk,-6.194311,106.76887,ChIJM564bR73aS4RA9r4J8ybuws,Kebon Jeruk,4.0,290.0,Jalan Panjang No.8
+H00102P,Bungur,-6.252688,106.78164,ChIJF5mLkQXxaS4Rlru_2G1Xl58,Bungur,4.0,129.0,"RT.9/RW.1, South Kebayoran Lama"
+H00237P,Tanah Kusir,-6.256997,106.78168,ChIJmW5bLQbxaS4R8jopbuJ9I18,Tanah Kusir,4.3,199.0,"RT.1/RW.8, South Kebayoran Lama"
+H00083P,Jelambar,-6.166548,106.78651,ChIJr779XUX2aS4ROknXS9P0Aqk,Jelambar,3.7,227.0,"Jalan Daan Mogot RT.8/RW.4, Tanjung Duren Utara"
+H00138S,Kali Grogol Arah Utara,-6.160164,106.790684,ChIJj_PFCEH2aS4RQwqBJlMtPZg,Kali Grogol Arah Selatan,3.2,137.0,Indonesia
+H00197S,Kali Grogol Arah Selatan,-6.159755,106.791453,ChIJj_PFCEH2aS4RQwqBJlMtPZg,Kali Grogol Arah Selatan,3.2,135.0,Indonesia
+H00089P,Jembatan Tiga,-6.133383,106.79267,ChIJ83LbF4sdai4R8M8Ew9v1N5g,Jembatan Tiga,3.5,228.0,"RT.2/RW.16, Penjaringan"
+H00204S,Kota Bambu Arah Utara,-6.184489,106.79674,ChIJ-ao1-oz2aS4RnJyfcp_bHGQ,Kota Bambu Arah Utara,4.2,109.0,Indonesia
+H00220S,Kemanggisan Arah Utara,-6.189906,106.79694,ChIJzTHl_pL2aS4RhUrNhMzAc8c,Slipi Kemanggisan 1,4.1,170.0,"No.Kav 78, Jalan Letjen. S. Parman, Palmerah, Daerah Khusus Ibukota Jakarta 11410, Indonesia"
+H00270P,Ps. Palmerah,-6.207817,106.79695,ChIJgRb2Krj2aS4RvD7KWaKrjdE,Ps. Palmerah,2.3,174.0,Indonesia
+H00269P,St. Palmerah,-6.208908,106.79706,ChIJ605Nnbf2aS4Rs5JScSguFSQ,St. Palmerah,4.1,309.0,Indonesia
+H00209S,Kota Bambu Arah Selatan,-6.185221,106.79709,ChIJNe7AAI32aS4RDcJcgr76ymU,Kota Bambu Arah Selatan,3.8,171.0,Indonesia
+H00224S,Kemanggisan Arah Selatan,-6.189781,106.79726,ChIJMX7mVZL2aS4RVraCvYnUUtA,Kemanggisan Arah Selatan,2.1,186.0,Indonesia
+H00014P,Blok M,-6.243312,106.80175,ChIJw_KKNGnxaS4RmnwHCxSLmck,"Blok M, Platform 3",3.8,245.0,Indonesia
+H00007P,Bandengan,-6.136318,106.80347,ChIJ-0obgB32aS4Rkd-B6jJajZw,Bandengan,4.0,214.0,"RT.1/RW.11, Pekojan"
+H00079P,Transjakarta Tanah Abang 1,-6.185496,106.81105,ChIJ0RVwvYT2aS4RAlUv_UtqCnk,Tanah Abang,4.0,4076.0,"Jalan Jati Baru Raya, Jalan Cideng Timur"
+H00093P,Kali Besar,-6.135355,106.81143,ChIJqd-0r_gdai4RbEuO7KDpnQs,Kali Besar Barat 1,4.6,203.0,Indonesia
+H00052P,Explorer Tanah Abang,-6.184305,106.81158,ChIJw9SCfoT2aS4RoYnlw9fEBdw,Explorer Tanah Abang,1.8,151.0,Indonesia
+H00267S,Kebon Sirih Arah Utara,-6.182776,106.8228,ChIJucx0Ryn0aS4RYWIOHRzMWa4,Kebon Sirih Arah Utara,3.8,178.0,Indonesia
+H00268S,Kebon Sirih Arah Selatan,-6.184195,106.823232,ChIJ_T8rLin0aS4Rj3ux9GpKMY0,Wisma Mandiri,4.5,193.0,Indonesia
+H00244S,Tegal Parang Arah Barat,-6.238863,106.83022,ChIJeRQxyMLzaS4RVAszpa00gS4,Tegal Parang Arah Barat,2.8,187.0,Indonesia
+H00003P,Ancol,-6.127563,106.83039,ChIJwZnc2Roeai4RfkXmT9L8nbY,Ancol,3.8,361.0,"Kota Tua, RW.10, Ancol"
+H00058P,Gambir,-6.174612,106.8304,ChIJ_1h7Zc31aS4Rla_k90yL_4I,Gambir,3.8,215.0,"RT.5/RW.2, Gambir"
+H00078P,Istiqlal,-6.172252,106.83093,ChIJXZVZ6s31aS4Ri0IwMGkoPJM,Istiqlal,4.4,191.0,Gambir
+H00265P,ASEAN,-6.239889,106.79897,ChIJ5-kTPmrxaS4R-TVlCPfQhOU,ASEAN,4.6,166.0,Indonesia
+H00059P,Gambir 2,-6.178929,106.83106,ChIJVS93YDL0aS4RnG6dtA14ON4,Gambir 2,4.3,210.0,"RT.5/RW.2, Gambir"
+H00243S,Tegal Parang Arah Timur,-6.239005,106.83106,ChIJQWfDwcLzaS4RWGQ_46b8ZVI,Tegal Parang Arah Timur,3.3,194.0,Indonesia
+H00004P,Perintis Kemerdekaan,-6.171797,106.8888,ChIJ-Xw31SH1aS4RVE18eEDYZcs,Perintis Kemerdekaan,3.8,201.0,"Jalan Perintis Kemerdekaan No.31, RW.5, Kelapa Gading Barat"
+H00002P,Pisangan,-6.205526,106.87378,ChIJOc_zf4X0aS4RjD_d3ceEb1Q,Pisangan,4.2,161.0,"RT.12/RW.5, Pisangan Timur"
+H00001P,Petukangan D'MASIV,-6.236466,106.74786,ChIJwYXfocDwaS4R4IgXu124lvc,Petukangan D'MASIV,3.6,238.0,North Petukangan
+H00006P,Balai Kota,-6.180488,106.82646,ChIJSXRtxy30aS4ROLOejFjgJ8s,Balai Kota,4.2,343.0,Gambir
+H00275P,Kota,-6.13679,106.8149,ChIJe1ZKMwD2aS4RNWNCapdyyHE,Kota,3.9,181.0,Indonesia
+H00011P,Bermis,-6.178203,106.89859,ChIJHSvIltn0aS4RcWiC22ov-Gs,Bermis,3.8,240.0,"RT.1/RW.3, East Kelapa Gading"
+H00012P,Bidara Cina,-6.229724,106.86721,ChIJfW0UQ3bzaS4RZ2HH8KzEpBI,Bidara Cina,4.0,177.0,"RT.1/RW.3, Kampung Melayu, Jatinegara"
+H00017P,Buaran,-6.215132,106.91768,ChIJ5e_NHaqMaS4Rxw9NZ7ypj4E,Buaran,4.0,174.0,"Jalan I Gusti Ngurah Rai RW.9, Jatinegara"
+H00021P,Buncit Indah,-6.274333,106.83029,ChIJT2_2kU7zaS4RA7Enyue5pts,Halte Busway Buncit Indah,2.9,106.0,"RT.12/RW.5, Kalibata"
+H00023P,Bundaran Senayan,-6.227869,106.80094,ChIJu7daWk_xaS4RiZVyDZanGFQ,Bundaran Senayan,4.3,281.0,Indonesia
+H00024P,Cakung Cilincing,-6.184223,106.94231,ChIJq2GryRCLaS4R78QbrVx8RUA,Cakung Cilincing,,,Indonesia
+H00025P,Cakung,-6.18324,106.92998,ChIJkcuoqjyLaS4RBFZtgSR0wB4,Cakung,,,Indonesia
+H00031P,CBD Ciledug,-6.223629,106.70904,ChIJh0oO_hz6aS4RHy1h1cQmH5o,CBD Ciledug,3.8,206.0,Indonesia
+H00033P,Cempaka Putih,-6.174207,106.87642,ChIJfTC8rgL1aS4RGoYyG5Gu3nY,Cempaka Putih,4.1,229.0,"12, East Cempaka Putih"
+H00038P,Cipinang,-6.213664,106.88986,ChIJCcHrPqD0aS4RXaJE-9Sl48A,Cipinang,4.3,168.0,"RT.8/RW.8, Cipinang"
+H00040P,Cipulir,-6.237818,106.76541,ChIJs9QacN7waS4RtsVX_2pHGRI,Cipulir,3.2,206.0,Indonesia
+H00041P,CSW 1,-6.23994,106.79843,ChIJ4eu5QWrxaS4RpaGvVnk9hAI,CSW 1,3.6,169.0,Indonesia
+H00264P,CSW 2,-6.239861,106.79783,ChIJjXgJQmrxaS4RnmSI5QHWHrQ,CSW 2,2.7,132.0,Indonesia
+H00069P,Rasuna Said,-6.221618,106.832245,ChIJyxjSKPfzaS4RpG0ziQMbG5o,Rasuna Said,4.3,221.0,Indonesia
+H00049P,Duren Tiga,-6.252377,106.82697,ChIJS-sXg9HzaS4ROLnn2O7-3uk,Duren Tiga,3.9,219.0,"Jalan Mampang Prapatan Raya RT.1/RW.6, Tegal Parang"
+H00057P,Galur,-6.174388,106.85485,ChIJHa0jOa31aS4RHzeeu1ZxGSE,Galur 1,,,Indonesia
+H00065P,Gedong Panjang,-6.132617,106.80596,ChIJyQEn1vkdai4RjZ0_TSqVQlQ,Jln. Gedong Panjang 1,4.9,106.0,Indonesia
+H00066P,Gelanggang Remaja,-6.235445,106.86795,ChIJnYu3IHXzaS4RDR4LJevC5AQ,Gelanggang Remaja,3.9,176.0,"Jalan Otista Raya RT.13/RW.8, Bidara Cina"
+H00067P,Senayan Bank Jakarta,-6.224217,106.8058,ChIJCSdpH07xaS4RriLxfHeikA4,Senayan Bank Jakarta,4.4,874.0,"Jalan Jenderal Sudirman, Indonesia"
+H00068P,Glodok,-6.1445,106.81545,ChIJY5gYrwf2aS4RKFeQtAwsl7A,Glodok Plaza,4.9,175.0,Indonesia
+H00073P,Halimun,-6.205137,106.83338,ChIJG3g5vBH0aS4RvD1M4RWimnM,Halimun,3.5,132.0,"RT.12/RW.6, Guntur"
+H00081P,Jati Padang,-6.285431,106.82626,ChIJy3GVsRvyaS4RUkYGPmQpADU,Jati Padang,3.7,258.0,"Jalan Warung Jati Barat RT.3/RW.5, Jati Padang"
+H00084P,Jembatan Baru,-6.154831,106.73038,ChIJFemJMPL3aS4RL_p7hKtT28w,Jembatan Baru,4.2,323.0,"Jakarta Barat, Halte Busway Jl. Daan Mogot RT.6/RW.1, Tim, Cengkareng Timur"
+H00085P,Jembatan Besi,-6.152005,106.7949,ChIJAc0n_RX2aS4RU1Vq2HSh5zM,Jembatan Besi,3.8,257.0,"RT.10/RW.1, Jembatan Besi"
+H00086P,Jembatan Dua,-6.143279,106.79352,ChIJtf8BciL2aS4RfNBxXx3TLT4,Jembatan Dua,3.6,242.0,Angke
+H00094P,Kalideres,-6.154412,106.7055,ChIJo2cm_xP4aS4RcWTqo2CX4N4,Kalideres,3.6,994.0,"Jalan Daan Mogot, Cengkareng Timur"
+H00095P,Kampung Melayu,-6.224673,106.86682,ChIJz6oKRHjzaS4RfdZszabxuC8,Kampung Melayu,3.7,688.0,Bali Mester
+H00096P,Kampung Rambutan,-6.309885,106.88216,ChIJTcBJKm_taS4RoyUvnXov-KI,East Jakarta Kampung Rambutan Bus Station,,,Indonesia
+H00097P,Kampung Sumur,-6.214412,106.91189,ChIJS63iqar0aS4RGkKuTZEfxlY,Kampung Sumur,3.8,177.0,"RT.14/RW.17, Klender, Duren Sawit"
+H00013P,Cawang Cililitan,-6.257751,106.87,ChIJUYUOE_7yaS4Rj8uudozAfIA,Cawang Cililitan,4.4,272.0,Indonesia
+H00018P,Lapangan Banteng,-6.166063,106.83906,ChIJaRx1ecj1aS4RcPCYC3mL01c,Lapangan Banteng,4.2,214.0,"RT.9/RW.7, South Gunung Sahari"
+H00022P,Bundaran HI Astra,-6.193021,106.823,ChIJn1tXZSH0aS4RK24qqnrlmCk,Bundaran HI Astra,4.7,872.0,Indonesia
+H00074P,Harmoni Lama,-6.165928,106.82044,ChIJlXfVLdj1aS4RlJRHDSqFWW8,Harmoni Lama,4.2,249.0,Indonesia
+H00030P,Cawang Sentral,-6.250309,106.8736,ChIJc9xHYQTzaS4RphyibKIUl8g,Cawang Sentral,4.2,674.0,Indonesia
+H00088P,Jembatan Merah,-6.146731,106.83427,ChIJO_0ta-71aS4RGWnM2HDoeYw,Jembatan Merah,4.0,235.0,"RT.16/RW.3, North Gunung Sahari"
+H00045P,Pejambon,-6.173503,106.83472,ChIJn4mXYsz1aS4RqWtk2jaq_5c,Pejambon,4.2,188.0,"Jalan Abdul Rahman Saleh, Senen"
+H00035P,Cempaka Mas,-6.166584,106.87591,ChIJyRoxJQX1aS4RjhDd73lNAJs,Cempaka Mas,4.1,231.0,"Jakarta Pusat, RW.8, Sumur Batu"
+H00032P,Simpang Cempaka,-6.165888,106.8792,ChIJC7988xr1aS4R3AC4qJCk-KQ,Simpang Cempaka,3.9,203.0,"Jalan Jenderal Ahmad Yani, Kelapa Gading Barat"
+H00034P,Cempaka Baru,-6.170398,106.86659,ChIJL_Q9tgD1aS4Rkok9ivsA_Es,Cempaka Baru,3.4,218.0,"JL. Let. Jend. Suprapto, Cempaka Baru, 10640 Jakarta Pusat, Indonesia"
+H00141P,Pasar Baru,-6.166129,106.83483,ChIJi1TRWc_1aS4RuUVTJwlmnqQ,Halte Busway Pasar Baru,4.0,263.0,"Jalan Gedung Kesenian, Pasar Baru"
+H00072P,Gunung Sahari,-6.136817,106.83237,ChIJ_6FTtPf1aS4R9L8CGOqM4gU,Gunung Sahari,3.8,192.0,Indonesia
+H00046P,Pulo Nangka,-6.154634,106.7381,ChIJOx9HM-z3aS4R-M-nC7FMjQg,Pulo Nangka,3.9,260.0,East Cengkareng
+H00077P,Damai,-6.163376,106.77514,ChIJ4fFuHxf4aS4R4MiGTpi4qAg,Damai,3.8,407.0,"Jalan Daan Mogot No.4, RW.5, Duri Kepa"
+H00070P,Grogol,-6.166824,106.78971,ChIJP2WcO0P2aS4R96nO_KvkKPY,Grogol,4.0,394.0,"Kelurahan Jl. Kyai Tapa No.1 RT.1/RW.5, Grogol, Grogol"
+H00048P,Dukuh Atas 2 (Archived),-6.2033,106.82378,ChIJ663qAxz0aS4R3x6eEyQE-RM,Sudirman,4.3,2860.0,"10, Jalan Kendal No.24, RW.6, Menteng"
+H00082P,Jatinegara,-6.221412,106.86807,ChIJVWxjJ3nzaS4RNX3CvA5QjKY,Jatinegara,3.2,235.0,"Jalan Jatinegara Timur II No.9, RT.12/RW.2, Rawa Bunga, Jatinegara"
+H00044P,Simpang Ragunan Ar-Raudhah,-6.294641,106.82213,ChIJT-SPaf_taS4R1883xobSFNc,Department Of Agriculture Busway Shelter,4.2,308.0,"Jalan Harsono RM, Ragunan"
+H00075P,Warung Buncit,-6.256977,106.82808,ChIJ5XiJ6tLzaS4RNiBLWd4Uk74,Warung Buncit,4.1,180.0,"RT.2/RW.1, Duren Tiga, Pancoran"
+H00202P,RSPAD,-6.175485,106.83674,ChIJiy8eScv1aS4RZxxnlcMsv_o,RSPAD,4.4,194.0,"RT.10/RW.5, Senen"
+H00028P,Cawang Baru,-6.243607,106.86876,ChIJATFWGwnzaS4Rd_sqc0h4k-Q,Cawang Baru,3.7,188.0,"RT.11/RW.12, Kampung Melayu, Jatinegara"
+H00060P,Makasar,-6.290154,106.88116,ChIJ2YttuJvyaS4RyNgOw_F4Ht0,Makasar,4.3,295.0,"Gang Madrasah, Pinang Ranti"
+H00061S,Ciliwung Arah Timur,-6.243012,106.86354,ChIJTUcrFafzaS4RY2YitHiTMRs,Ciliwung Arah Timur,4.3,131.0,Indonesia
+H00109S,Denpasar Arah Timur,-6.232602,106.82162,ChIJSdv2WuHzaS4R-h8iLjIpghU,Denpasar Arah Timur,3.9,177.0,"Jalan Gatot Subroto RT.6/RW.3, Kuningan, Kuningan Timur"
+H00071P,Grogol Reformasi,-6.16717,106.78818,ChIJR3sBrUT2aS4Rpiauex2Hmoc,Grogol Reformasi,3.9,174.0,"RT.8/RW.1, North Tanjung Duren"
+H00051P,Mambo,-6.11015,106.89242,ChIJvVo8WpQfai4RBc95hxaLKn4,Mambo,4.1,261.0,"Jalan Raya Pelabuhan No.Tanjung Priok, Tanjung Priok"
+H00039P,Kebon Nanas,-6.231659,106.87637,ChIJu77oA3LzaS4RtVGD1vTHCvM,Kebon Nanas,4.0,163.0,"RT.12/RW.6, South Cipinang Besar"
+H00029P,Simpang Cawang,-6.244771,106.87598,ChIJ1TsDww_zaS4RcSrqEVlmU3M,Simpang Cawang,4.0,171.0,"Jalan DI. Panjaitan RT.7/RW.11, Cipinang Cempedak"
+H00055P,Simpang Buaran,-6.215982,106.92438,ChIJR1a30KeMaS4RGmErlHyEFbQ,Flyover Radin Inten 1,4.9,151.0,Indonesia
+H00054P,Klender,-6.213596,106.90306,ChIJw9IqNKj0aS4RKm2OdLd7_LA,Flyover Klender,3.8,198.0,"Jalan I Gusti Ngurah Rai RT.2/RW.1, Klender"
+H00076P,Flyover Cipinang,-6.214632,106.88227,ChIJ5w-E5J30aS4RTHEpHCoBWko,Flyover Cipinang,4.3,165.0,"RT.9/RW.9, East Pisangan"
+H00203S,Pancoran Arah Barat,-6.241672,106.8372,ChIJxVqzOcHzaS4RUj869AQXuYQ,Pancoran Arah Barat,3.4,145.0,Indonesia
+H00100P,Kayu Putih Rawasari,-6.187453,106.87542,ChIJdx97NfD0aS4Rses4poA1uiw,Kayu Putih Rawasari,3.9,145.0,Indonesia
+H00101P,Kebayoran Lama,-6.23834,106.77752,ChIJ6QAkESLxaS4RycRdtcGgw5o,Jalan Makam,4.9,152.0,Indonesia
+H00266P,Kejaksaan Agung,-6.2405,106.79844,ChIJZcfRRmrxaS4RP_cmNzkltTg,Kejaksaan Agung,4.0,154.0,Indonesia
+H00107P,Kelapa Dua Sasak,-6.205551,106.76953,ChIJYSh0bif3aS4RsmNBBd4PCHU,Kelapa Dua Sasak,4.0,269.0,"RT.2/RW.2, Kelapa Dua"
+H00005P,Senen Raya,-6.176251,106.84023,ChIJr6zwSTX0aS4R9c7F06URpEs,RSPAD 1,4.6,137.0,Indonesia
+H00112P,Kramat Sentiong,-6.18798,106.84595,ChIJUWMqYUb0aS4RM91aKkK4UYI,Kramat Sentiong,4.2,218.0,"RT.1/RW.8, Kramat, Senen"
+H00116P,Kwitang,-6.181051,106.83866,ChIJKaLlfzb0aS4RFEMwtJw0Xlw,Kwitang,4.3,227.0,"RT.1/RW.5, Senen"
+H00121P,Layur,-6.193539,106.89909,ChIJXSJDk8f0aS4R67gkBrf3Pig,Layur 1,4.5,171.0,"Jalan Pemuda RT.12/RW.4, Jati"
+H00122P,Lebak Bulus,-6.289413,106.77415,ChIJg1Xdls3xaS4RHyPoMz3Ioio,Lebak Bulus 1,3.7,460.0,Indonesia
+H00123P,Mampang Prapatan,-6.242699,106.82572,ChIJyTksjNvzaS4RjF6LeUvypes,Mampang Prapatan,3.8,293.0,"Jalan Mampang Prapatan Raya RT.6/RW.6, Mampang Prapatan"
+H00125P,Mangga Dua,-6.136148,106.82597,ChIJue1Shfj1aS4Rvtv3xDwDwkg,Mangga Dua,4.1,227.0,"Kota Tua, RT.11/RW.5, Ancol"
+H00127P,Masjid Agung,-6.236483,106.79845,ChIJJaepo0HxaS4R11jamnHPoIE,Masjid Agung,4.9,187.0,Indonesia
+H00130P,Mayestik,-6.241921,106.79077,ChIJDTpLThTxaS4Rjy1PSVeM4-g,Mayestik,4.1,217.0,Indonesia
+H00134P,Pademangan,-6.133704,106.83164,ChIJ-XYFER0eai4RS03nVtDwzBw,Pademangan,3.6,198.0,"RT.1/RW.13, West Pademangan"
+H00135P,Pakin,-6.127982,106.80474,ChIJJdHVZ_Adai4ReNcfuoS5xsY,Pakin,3.5,212.0,"RT.2/RW.4, Penjaringan"
+H00136P,Pal Putih,-6.184631,106.84402,ChIJYYTHXkj0aS4R-AwFaY5wyWM,Pal Putih,4.1,249.0,"RT.3/RW.4, Kramat, Senen"
+H00142P,Pasar Baru Timur,-6.162272,106.83811,ChIJe_CN48b1aS4R-Oj18xvg_ZM,Pasar Baru Timur,3.9,207.0,"Jalan Gunung Sahari, Daerah Khusus Ibukota Jakarta, Indonesia|Jalan Pos, Pasar Baru, Sawah Besar"
+H00144P,Pasar Cempaka Putih,-6.172325,106.86246,ChIJfYhGUar1aS4REyOhy3XOCII,Pasar Cempaka Putih,4.2,201.0,Indonesia
+H00145P,Pasar Enjo,-6.214881,106.87819,ChIJP5KyQp30aS4Rcl-RBdSlSYQ,Pasar Enjo,4.1,179.0,"RT.8/RW.9, East Pisangan"
+H00146P,Pasar Genjing,-6.194446,106.86092,ChIJU2pCP170aS4Ry4fR_5iilHA,Pasar Genjing,4.1,210.0,"Jalan Pramuka Raya RT.7/RW.2, Rawasari"
+H00152P,Pasar Pulo Gadung,-6.187434,106.90591,ChIJrRXwm870aS4R1uUb4LtJQcc,Pasar Pulo Gadung,4.2,178.0,Indonesia
+H00153P,Pasar Rumput,-6.207125,106.84112,ChIJQ-PgTw30aS4RD_O8M5raer0,Pasar Rumput,4.0,366.0,"Jalan Pasar rumput RT.1/RW.3, Pasar Manggis"
+H00155P,Pecenongan,-6.16771,106.82819,ChIJYbJnP9D1aS4RK2KKUH310gQ,Pecenongan,3.8,239.0,Indonesia
+H00157P,Pedongkelan,-6.167962,106.88246,ChIJtfoG3xv1aS4RM7I3fi_wgG0,Pedongkelan,4.2,182.0,"RT.7/RW.2, Kelapa Gading Barat, Kelapa Gading"
+H00158P,Pejaten,-6.278404,106.82972,ChIJl61rVT3yaS4Rbs8u05uvovI,Pejaten,3.9,255.0,Jl. Warung Jati Bar.
+H00160P,Pemuda Pramuka,-6.192795,106.87498,ChIJIXiOw_L0aS4RP_oaEw23bSI,Pemuda Pramuka,4.2,164.0,"Jenderal Ahmad Yani RW.9, Utan Kayu Utara"
+H00161P,Pemuda Rawamangun,-6.193488,106.89165,ChIJz4PL9MD0aS4RbE7ikdKGQVM,Pemuda Rawamangun 1,3.8,182.0,Indonesia
+H00139P,Pancoran Tugu,-6.2433,106.84388,ChIJCXvs3bjzaS4Rv7-EFbcXG4w,Pancoran Tugu,4.3,190.0,Indonesia
+H00164P,Penjaringan,-6.126306,106.79203,ChIJGyzUgpIdai4RRkoFeRG8B94,Penjaringan,3.5,222.0,Indonesia
+H00166P,Permata Hijau,-6.221427,106.78325,ChIJox1mYzLxaS4RXKBrf6_4vNE,Permata Hijau,4.1,254.0,"RT.4/RW.2, Grogol Utara"
+H00169P,Pesakih,-6.154803,106.71527,ChIJdYJoexn4aS4RBkLxHMJ5RGM,Pesakih,4.4,233.0,"RT.2/RW.12, Kalideres"
+H00170P,Petojo,-6.169984,106.81698,ChIJ84oyl3j2aS4RRCn4YOwsxos,Petojo,3.6,171.0,"RT.7/RW.7, South Petojo"
+H00173P,Pinang Ranti,-6.291075,106.88634,ChIJQcdIxZjyaS4RBnK8U6o-Qrw,Pinang Ranti,4.2,543.0,"Jalan Raya Pondok Gede No.18, Pinang Ranti"
+H00174P,Pluit,-6.115795,106.79037,ChIJ-xKtLb4dai4RRidKpAub7as,Pluit,4.1,157.0,"RT.15/RW.4, Pluit"
+H00176P,Polda Metro Jaya,-6.221094,106.81028,ChIJvdCSt1PxaS4Rynz0-nrQJ0o,Polda Metro Jaya,4.1,311.0,Gelora
+H00179P,Pondok Pinang,-6.28217,106.77204,ChIJV_fNI8vxaS4RXE8NlW1a9k0,Pondok Pinang Busway Stop,4.0,257.0,"Jl Ciiputat Raya, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta"
+H00180P,Pos Pengumben,-6.212935,106.77226,ChIJMZyFbNb2aS4RAC5h0E_PCyE,Pos Pengumben,3.6,151.0,"RT.6/RW.9, North Sukabumi"
+H00183P,Rawa Terate,-6.182622,106.91561,ChIJIbI7mS2LaS4R2Pml8QtK9Lg,Rawa Terate,4.2,169.0,Indonesia
+H00186P,Pulo Gebang,-6.213275,106.953327,ChIJg-ny5X2LaS4RKJoGP2tOe0U,Pulo Gebang,3.4,184.0,Indonesia
+H00187P,Pulo Mas,-6.174736,106.89277,ChIJS5XiZt_0aS4RqAnZsLVHtOw,Pulo Mas 1,4.6,159.0,Indonesia
+H00188P,Pulo Mas Bypass,-6.176953,106.876,ChIJB-0cKP30aS4R2kRMliKNXgg,Pulo Mas Bypass,4.2,223.0,"RT.6/RW.11, Kayu Putih"
+H00190P,Puri Beta 2,-6.230532,106.72371,ChIJKS9mAajwaS4RpTCaaCIhLbE,Puri Beta 2,3.9,448.0,"Unnamed Road, Karang Timur"
+H00191P,Ragunan,-6.305769,106.81949,ChIJRYVilf3taS4RTMc3W2UG_Uc,Ragunan,4.5,129.0,Indonesia
+H00192P,Rawa Barat,-6.238947,106.81624,ChIJ40debGDxaS4RyjtCW0QL3ck,Rawa Barat,4.3,237.0,Indonesia
+H00098P,Karet Kuningan,-6.21667,106.830737,ChIJX_P04PfzaS4RTjpMW-XvIC0,Karet Kuningan 1,3.7,175.0,Indonesia
+H00114P,Kuningan Madya,-6.213414,106.830472,ChIJ2yIfuQj0aS4RsJqzMmLHi2w,Kuningan Madya,4.0,225.0,"Jalan Hr. Rasuna Said,Jaksel., RT.3/RW.1, Karet, Kecamatan Setiabudi"
+H00124P,Mangga Besar Lama,-6.15217,106.81736,ChIJef9bDwr2aS4Rsb__TaEeabI,Mangga Besar 1,3.9,114.0,Indonesia
+H00099P,Karet,-6.212457,106.82003,ChIJ1X12iAH0aS4RCtA0GlfbM5I,Karet,4.2,432.0,"Jl. Jend. Sudirman No.Kav 25, Kota SelatanSetia Budi,, Karet, Kecamatan, Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia"
+H00132P,Museum Sejarah Jakarta,-6.13393,106.81209,ChIJe037LP8dai4RUNQ1CnZ5xtc,Museum Sejarah Jakarta,4.4,376.0,"Kota Tua, RT.7/RW.7, Pinangsia"
+H00182P,Pramuka Sari,-6.192238,106.86858,ChIJpfxBr_X0aS4R4SEXVihcV0c,Pramuka Sari,4.2,230.0,"Jalan Pramuka RT.6/RW.8, Utan Kayu Utara"
+H00115P,Underpass Kuningan,-6.234731,106.82902,ChIJ_0OCLebzaS4RqBTKmxMqvbQ,Underpass Kuningan,4.0,124.0,Indonesia
+H00118P,Flyover Kuningan,-6.202761,106.82771,ChIJ0cmLOxr0aS4RoINyIYYosnc,Flyover Kuningan,4.0,206.0,"JL. H.R. Rasuna Said, Menteng, 10310 Jakarta Pusat, Indonesia"
+H00147P,Pasar Induk,-6.294215,106.87203,ChIJCziryIPyaS4RxPo7pIoXsWs,Pasar Induk,3.8,390.0,"9, RW.7, Rambutan"
+H00150P,Kramat Jati,-6.268822,106.86663,ChIJp3hEuPfyaS4RUG_5wb-OeuE,Kramat Jati,4.3,248.0,Indonesia
+H00177P,Underpass Lebak Bulus,-6.286761,106.77999,ChIJH5oh_M7xaS4RYRGTv6pJhyE,Underpass Lebak Bulus,3.9,174.0,Pondok Pinang
+H00178P,Pondok Indah,-6.267231,106.78365,ChIJ9zySdaXxaS4RKqmzWFRGne0,Pondok Indah,4.1,289.0,"Jalan Nasional 12, RT.1/RW.16, Pondok Pinang, Kebayoran Lama"
+H00149P,Kebayoran,-6.238413,106.78323,ChIJkZUYWj3xaS4Rh2C2cMBvDvY,Kebayoran,3.9,490.0,"12230, Jalan Sultan Iskandar Muda, Kebayoran Lama Utara"
+H00167P,Arteri,-6.218401,106.77761,ChIJzbHgTtP2aS4RLZmsbMBywr0,Arteri,3.5,153.0,"RT.7/RW.8, South Sukabumi"
+H00105P,Kedoya Panjang,-6.174495,106.76585,ChIJz4D5wav3aS4RHEsRX5ZWSkk,Kedoya Panjang,4.2,212.0,"RT.5/RW.11, Kedoya Utara, Kebon Jeruk"
+H00106P,Kedoya,-6.164435,106.76301,ChIJF9GUFbH3aS4REHM_pSt5n48,Kedoya,3.9,217.0,"Jalan Panjang, Kedoya Utara, Kebon Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11520"
+H00198S,Pancoran Arah Timur,-6.241571,106.83808,ChIJjcowJMHzaS4RbvhNNQpvOMw,Pancoran Arah Timur,2.3,181.0,Indonesia
+H00165P,Koja,-6.11413,106.89309,ChIJTydXR-sfai4REoflV1JT8mU,Koja,4.3,183.0,Indonesia
+H00162P,Halim,-6.23907,106.878,ChIJez7iZxLzaS4R_t7iFrx7pns,Halim,3.9,253.0,"RT.12/RW.1, Cipinang Besar Selatan, Jatinegara"
+H00108P,Landasan Pacu,-6.152181,106.85424,ChIJkzGazpn1aS4RAPdm6lxrdT0,Landasan Pacu,4.1,288.0,"No., Jalan HBR Motik No.101, Kemayoran"
+H00140P,Mangga Dua Raya,-6.137611,106.81792,ChIJV0midwD2aS4RI0NMHfoE1S4,Mangga Dua Raya,4.1,226.0,"Jalan Mangga Dua Raya RT.3/RW.4, Pinangsia"
+H00117P,Pluit Selatan,-6.125258,106.79971,ChIJDSdnCe4dai4R6BFQpP8KpeI,Pluit Selatan,3.4,226.0,Indonesia
+H00184P,Pulo Gadung,-6.183325,106.90885,ChIJF6eVns70aS4RcUF1hC2VAQg,Pulo Gadung 6,3.8,224.0,"Jalan Raya Bekasi No.18, RT.8, Pulo Gadung"
+H00193P,Rawa Buaya,-6.153916,106.72619,ChIJ_2rFf_b3aS4RqSMfvMHfzs4,Halte Busway Rawa Buaya,4.0,303.0,"Jalan AA, RW.2, Cengkareng Barat, Cengkareng"
+H00194P,Rawa Selatan,-6.173925,106.85809,ChIJx7JVlqz1aS4RJ6EWk-rPj20,Rawa Selatan,3.6,189.0,"JL. Let. Jend. Suprapto, Harapan Mulia, 10610 Jakarta Pusat, Indonesia,, 10640, Indonesia, Cempaka Baru, Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta,, Indonesia"
+H00195P,Raya Bekasi Pulo Gebang,-6.187604,106.95987,ChIJocIOrKCLaS4RPmLgPlPT3vU,Raya Bekasi Pulo Gebang,,,Indonesia
+H00213P,Jaga Jakarta,-6.178287,106.84197,ChIJVfQ5hkr0aS4RdM_3g0_mqq0,Halte Bus Transjakarta Senen,4.2,849.0,"RW.2, Senen"
+H00214P,Seskoal,-6.238064,106.77121,ChIJA01QDSDxaS4RGqzLL2oTXoY,Seskoal,4.0,181.0,Indonesia
+H00216P,Simprug,-6.233935,106.78647,ChIJFV91dTzxaS4RFYf8o5TOofc,Simprug,4.6,141.0,"RT.5/RW.2, South Grogol"
+H00226P,Stasiun Klender,-6.213532,106.89866,ChIJR9_xoKX0aS4RYjqaPSWVbyU,Klender,4.4,903.0,"Jalan Bekasi Timur Raya No.7, RW.1, Jatinegara"
+H00271P,Plaza St. Manggarai,-6.210225,106.85099,ChIJmQ6sHHH0aS4R2Kc4sEiEyUc,Manggarai,4.2,6283.0,"H7 Jl. Manggarai Utara, RW.1, Manggarai"
+H00229P,Sumur Bor,-6.153046,106.71929,ChIJFemJMPL3aS4RTtAn7Xj0_sc,Sumur Bor,4.0,263.0,"Jalan Sumur Bor No.15 1, RW.2, Cengkareng Barat"
+H00233P,Sunter Kelapa Gading,-6.1429,106.89076,ChIJn9lgJF31aS4R1R_XYiq1KoM,Sunter Kelapa Gading 1,3.5,182.0,"JL. Griya Utama, Blok A No 40-41"
+H00234P,Swadarma ParagonCorp,-6.23755,106.76065,ChIJPRq9Ht3waS4Rymuz6gwlgwY,Swadarma ParagonCorp,3.6,135.0,Indonesia
+H00235P,Taman Kota,-6.157176,106.75789,ChIJf2LAbFL3aS4RWHCRK06hFwo,Halte Taman Kota,4.1,134.0,"Jalan Daan Mogot, Kedaung Kali Angke"
+H00241S,Tebet Eco Park Arah Timur,-6.243056,106.85208,ChIJzX8sQbvzaS4RD9eDa51MulA,Tebet Eco Park Arah Timur,4.1,168.0,Indonesia
+H00240P,Tanjung Priok,-6.10959,106.88214,ChIJ6cK2OLkfai4RtmVlwrkaamo,Tanjung Priok,1.9,127.0,Indonesia
+H00242S,Tebet Eco Park Arah Barat,-6.243338,106.85212,ChIJ62jMarvzaS4RDGrqCFk8-No,Tebet BUMD,4.2,198.0,"RT.3/RW.3, West Tebet"
+H00245P,Tegalan,-6.203101,106.85715,ChIJE-J6W2T0aS4Ry-FsM8T5qSE,Tegalan 2,1.0,150.0,Indonesia
+H00272P,Timur St. Manggarai,-6.209745,106.85067,ChIJmQ6sHHH0aS4R2Kc4sEiEyUc,Manggarai,4.2,6278.0,"H7 Jl. Manggarai Utara, RW.1, Manggarai"
+H00248P,Tipar Cakung,-6.183387,106.92463,ChIJpccMUyWLaS4Rv8hzo7O9qFI,Pupar,3.9,170.0,Indonesia
+H00274P,Tosari Lama,-6.198397,106.82313,ChIJkWD7Lx_0aS4RMvd0MP2tIno,Tosari 2,4.7,166.0,Indonesia
+H00253P,Ujung Menteng,-6.189222,106.96483,ChIJ9TgCe6GLaS4RTk8dw9hUFEg,Ujung Menteng,,,Indonesia
+H00255P,Utan Kayu,-6.192728,106.86457,ChIJDd76e1_0aS4Rq2zofUCF-mU,Utan Kayu,3.8,217.0,"RT.12/RW.5, Utan Kayu Utara, Matraman"
+H00256P,Utan Kayu Rawamangun,-6.197515,106.87404,ChIJO4LCA430aS4Rj1rDdKDzPFI,Utan Kayu Rawamangun,4.3,214.0,"RT.10/RW.13, Rawamangun"
+H00258P,Velodrome,-6.193468,106.8883,ChIJ0WLqmOr0aS4Rgp-zYiTTxA4,Velodrome,4.4,289.0,"RT.8/RW.5, Rawamangun"
+H00259P,Walikota Jakarta Timur,-6.21254,106.94537,ChIJbcELEmGLaS4RvduF8YImHUk,Walikota Jakarta Timur,4.1,343.0,"Blok Sadar 2, Jalan Doktor Sumarno Blok Sadar 2 No.1, Penggilingan, Cakung"
+H00285P,Tanah Tinggi,-6.171373,106.852189,ChIJB_9YEbL1aS4Rqqf_I_L1rR0,Tanah Tinggi,4.8,155.0,Indonesia
+H00260S,Walikota Jakarta Utara Arah Utara,-6.118842,106.89314,ChIJeRahQukfai4RldJsyXff5zE,Walikota Jakarta Utara,4.1,161.0,Indonesia
+H00262P,Warung Jati,-6.262364,106.82977,ChIJGUTT9y3yaS4RcE4_YumK1qE,Warung Jati 1,,,Indonesia
+H00208P,Sawah Besar Lama,-6.16041,106.81922,ChIJ3Z1s7d_1aS4RTaeFyfJ7WIE,Sawah Besar,4.8,128.0,Indonesia
+H00199P,Sumur Batu,-6.168676,106.87027,ChIJn0xlogb1aS4R3PhLIdIc6qY,Sumur Batu,4.0,215.0,"RT.16/RW.5, Cempaka Baru, Kemayoran"
+H00212P,Senen TOYOTA Rangga,-6.178211,106.84251,ChIJVfQ5hkr0aS4RdM_3g0_mqq0,Halte Bus Transjakarta Senen,4.1,791.0,"RW.2, Senen"
+H00200P,Roxy,-6.166294,106.79675,ChIJK3m7Y2j2aS4RTFl2na5gmco,Roxy,3.4,328.0,"RT.1/RW.3, Grogol, Grogol petamburan"
+H00252P,Pemuda Merdeka,-6.19241,106.90489,ChIJP_bvl8n0aS4RefHgG7b1HA4,Pemuda Merdeka,4.5,202.0,Indonesia
+H00230P,Kayu Jati,-6.193267,106.88367,ChIJG_Phbuv0aS4RuHSqdWufElc,Kayu Jati,4.1,164.0,"RT.9/RW.3, Rawamangun"
+H00254P,Rawamangun,-6.192931,106.88033,ChIJ_TmJ--z0aS4R_S8-foz_vL8,Rawamangun,4.2,263.0,"Jalan Pemuda RT.13/RW.2, Rawamangun"
+H00206P,Salemba,-6.193373,106.84891,ChIJw44GS0L0aS4Rb4ZpqRuHAIw,Salemba,4.2,228.0,"RT.1/RW.3, Paseban"
+H00205P,Paseban,-6.196781,106.85102,ChIJgz5qOmj0aS4R4ZI_vfg018o,Paseban,4.1,228.0,"RT.4/RW.5, Paseban, Senen"
+H00217P,Kesatrian,-6.208533,106.85929,ChIJS2bAf3z0aS4RiCEWV24EQMg,Kesatrian,4.1,152.0,"RT.4/RW.3, Palmeriam"
+H00196P,Trikora,-6.301956,106.86803,ChIJXxrz2H7taS4RQESnMt9kVGo,Trikora,3.8,301.0,"Jalan Raya Bogor, Rambutan, Ciracas, Kota Jakarta Timur"
+H00210S,Tanjung Duren Arah Barat,-6.175587,106.79223,ChIJPWdcvl_2aS4R008j9_Aokp0,Tanjung Duren Arah Barat,3.6,303.0,"West Jakarta, RT.12/RW.1, Tomang"
+H00211S,Tanjung Duren Arah Timur,-6.175799,106.79308,ChIJY2x-t1_2aS4RawtC9BHYduc,Tanjung Duren Arah Timur,3.3,196.0,Indonesia
+H00250P,Tomang Raya,-6.176875,106.80037,ChIJL6FiAWL2aS4R_92yDr_fIcA,Tomang Raya,4.3,197.0,"Jalan Tomang Raya RT.5/RW.1, Jatipulo"
+H00201P,Tarakan,-6.171146,106.81011,ChIJTdMBjnv2aS4RqfP7_0EkTVA,Tarakan,3.6,305.0,"RT.11/RW.4, Cideng, Gambir"
+H00218S,Gerbang Pemuda Arah Barat,-6.213906,106.80841,ChIJw1IxyK32aS4RF8htFXDNva4,Gerbang Pemuda Arah Barat,3.5,191.0,Indonesia
+H00219S,Gerbang Pemuda Arah Timur,-6.214145,106.809,ChIJq6otS6z2aS4Ri90OOQD5lSI,Gerbang Pemuda Arah Timur,3.0,128.0,Indonesia
+H00036C,Petamburan,-6.20203,106.79989,ChIJw5mpp772aS4RWDuDRFj6p2I,Petamburan,4.1,362.0,Tanah Abang
+H00273P,Jakarta International Stadium,-6.126689,106.85587,ChIJH8jnqy8eai4RS4iteGG7iLQ,Jakarta International Stadium,4.2,189.0,Indonesia
+H00263P,Kodamar,-6.162043,106.88169,ChIJx2lc3hD1aS4RIqW7xndrcQU,Kodamar,4.1,195.0,Jalan Yos Sudarso
+H00222P,Sunter Utara,-6.139776,106.8592,ChIJCQPaAYT1aS4RxG98ARRvWqs,Sunter Utara,3.9,208.0,"Jalan Danau Sunter Utara, Sunter Agung"
+H00246P,Tegal Mampang,-6.240213,106.83102,ChIJTcoxIMPzaS4RQls0SAuucYE,Tegal Mampang,4.1,219.0,Indonesia
+H00249P,Pasar Santa,-6.239207,106.80777,ChIJ2-eJ7GfxaS4RGTjC2hwzhfA,Pasar Santa,4.3,227.0,"South Jakarta, Petogogan"
+H00037C,Flyover Jatinegara,-6.215139,106.874152,ChIJs9FpgYL0aS4R0x95_7LjCzk,Flyover Jatinegara,3.0,184.0,Indonesia
+H00042P,Danau Agung,-6.146869,106.85805,ChIJESLHc5v1aS4R-JpCrgZZvZw,Danau Agung,4.0,186.0,"RW.10, Sunter Agung"
+H00227P,Stasiun Tebet,-6.225503,106.85814,ChIJA1bCu4TzaS4R2VCHwamf9SA,Stasiun Tebet,3.9,139.0,Indonesia
+H00062S,Ciliwung Arah Barat,-6.243292,106.86359,ChIJg26qFKfzaS4RnH392ynKAv4,Ciliwung Arah Barat,4.3,210.0,Indonesia
+H00027C,Semanggi,-6.22111,106.81354,ChIJnSclQlTxaS4RjwvoJCNZAs4,Semanggi,3.9,155.0,Indonesia
+H00010P,Bendungan Hilir,-6.217137,106.81528,ChIJNc_a0Kr2aS4R5vUpL_YkJ8o,Bendungan Hilir,3.9,265.0,"RT.14/RW.1, Bendungan Hilir"
+H00129P,Flyover Pramuka,-6.19891,106.8545,ChIJ5fAfOmb0aS4RlOxyusKjyJc,Flyover Pramuka,4.0,194.0,"RT.1/RW.1, Palmeriam"
+H00128P,Matraman,-6.19998,106.85443,ChIJU790FGb0aS4RDUdZyWOSQ8g,Matraman,4.1,223.0,Indonesia
+H00056P,Flyover Raya Bogor,-6.3065,106.8657,ChIJZ8sKcnjtaS4RtZz2EXcu4dA,Flyover Raya Bogor,3.6,168.0,Indonesia
+H00172P,PGC,-6.2619,106.8657,ChIJG5_AtPjyaS4RBiE-aNA2PTU,PGC,3.8,326.0,Cililitan
+H00087P,Jembatan Gantung,-6.155513,106.74946,ChIJzerfscH3aS4Rf07t8FaC3H8,Jembatan Gantung,3.9,270.0,"RT.1/RW.4, Kedaung Kali Angke, Cengkareng"
+H00092P,Juanda,-6.168048,106.83089,ChIJA-fWyM_1aS4RsjrpUIntdJE,Juanda,4.2,157.0,Indonesia
+H00104P,Matraman Baru,-6.21288,106.86115,ChIJhVyj5H70aS4R0hZY5AjIumM,Matraman Baru,3.8,288.0,"RT.1/RW.6, Bali Mester, Jatinegara"
+H00126P,Manggarai,-6.20888,106.84739,ChIJA9kngHH0aS4RZMZe_OL_LME,Manggarai,3.8,256.0,"Jalan Tambak, Indonesia|Jl. Sultan Agung Manggarai Tebet Jakarta Selatan DKI Jakarta, Indonesia"
+H00207P,MH Thamrin,-6.188149,106.82299,ChIJU6mHbSb0aS4RbOBahXg4kpQ,MH Thamrin,4.5,193.0,Indonesia
+H00251P,Tosari,-6.196892,106.82309,ChIJ5Wj2MB_0aS4RwKRwAswIGp8,Tosari,4.2,520.0,"RT.1/RW.6, Menteng"
+H00257P,Velbak,-6.239433,106.78552,ChIJv32uPRbxaS4ReOMvxh7Gzzk,Velbak,4.2,239.0,"RT.12/RW.2, Gunung"
+H00133P,Taman Sari,-6.1493,106.81669,ChIJ-VWsyAn2aS4Rvs-YFqTJ6jg,Taman Sari,3.7,189.0,"Kota Tua, RT.4/RW.6, Mangga Besar"
+H00181P,Simpang Pramuka,-6.192192,106.87401,ChIJx9rtUvL0aS4RiitPsmXSULo,Simpang Pramuka,4.0,238.0,"RT.14/RW.8, Rawasari"
+H00148P,Bali Mester,-6.215744,106.86632,ChIJIwD8HoD0aS4R8ohf-Pdi_-k,Bali Mester,4.2,289.0,"Jalan Jatinegara Timur, Bali Mester"
+H00221P,Jati Barat,-6.290967,106.82365,ChIJRYWcgQPyaS4R8v9p-ZDHMlM,Jati Barat,3.9,257.0,"Jalan Warung Jati Barat No.37, Jati Padang"
+H00171P,Cililitan,-6.262494,106.86635,ChIJD3t4t_jyaS4RYAQaR4WHww0,Cililitan,4.1,531.0,Cililitan
+H00064S,Cikoko Arah Barat,-6.243359,106.85815,ChIJGwWOO6TzaS4Rkk16XQNono0,Cikoko Arah Barat,4.0,211.0,Indonesia
+H00063S,Cikoko Arah Timur,-6.243028,106.85814,ChIJzzg0BqTzaS4RnbNFapMNxo4,Cawang,4.2,1692.0,"Jalan Tebet Timur Raya No.55, Tebet Timur"
+H00113P,Simpang Kuningan,-6.23725,106.82794,ChIJxxQZi-fzaS4RruW0s5unHB4,Simpang Kuningan,3.9,258.0,Indonesia
+H00120S,Widya Chandra Telkomsel Arah Timur,-6.226549,106.8174,ChIJLQOF3VfxaS4RNxJs4ErRsgw,Widya Chandra Telkomsel,3.5,176.0,Indonesia
+H00137S,Widya Chandra Telkomsel Arah Barat,-6.227392,106.81763,ChIJx38p_FfxaS4RZejwBv99hpg,Widya Chandra Telkomsel,4.1,159.0,Indonesia
+H00225P,Stasiun Jatinegara,-6.215601,106.86805,ChIJ80pw5oH0aS4R7h7h_KgL8RQ,Stasiun Jatinegara,3.9,224.0,"Jalan Raya Bekasi Barat, Pisangan Baru, Matraman"
+H00232P,Sunter Karya,-6.137625,106.87081,ChIJ7ZN6nX71aS4RBGNRI8KveEQ,Sunter Karya,3.9,210.0,"Jalan Danau Sunter Utara, RT.8/RW.15, Sunter Agung, Tanjung Priok"
+H00281P,Mangga Besar,-6.15325,106.817536,ChIJyyxseQr2aS4RUQKZI2JNWa8,Mangga Besar,3.6,174.0,Indonesia
+H00280P,Sawah Besar,-6.157368,106.818661,,,,,
+H00278P,Harmoni,-6.162687,106.81992,ChIJwW9Y6Nj1aS4RRYmxyYdoR_A,Harmoni,3.6,211.0,Indonesia
+H00043P,Kuningan,-6.228794,106.833205,ChIJ0y7MSO7zaS4RJQKWd-Ndl5g,Kuningan,3.2,122.0,Indonesia
+H00215P,Setiabudi,-6.209189,106.830237,ChIJS7ISgw_0aS4RJsFc28flHqA,Setiabudi,3.7,181.0,Indonesia
+H00276P,Cawang,-6.245863,106.871143,ChIJ-VheUg_zaS4RsBqsynHkPKc,Cawang,4.6,205.0,Indonesia
+H00154P,Patra Kuningan,-6.232677,106.832087,ChIJXYz_wOjzaS4R53mPDwcdErU,Patra Kuningan,3.8,210.0,Indonesia
+H00283P,Galunggung,-6.204399,106.823381,ChIJC6Difhz0aS4RNtgkuH9R-do,Galunggung,3.5,288.0,Indonesia
+H00239S,Tanah Merdeka Arah Timur,-6.307866,106.87389,ChIJz1SdgHDtaS4RFyOmECjgptg,Tanah Merdeka Arah Timur,4.8,114.0,Indonesia
+H00238S,Tanah Merdeka Arah Barat,-6.308216,106.87393,ChIJ27ZnfXDtaS4RlyR3VermGgE,Tanah Merdeka Arah Barat,4.9,129.0,Indonesia
+H00156P,Pedati Prumpung,-6.22016,106.87439,ChIJWYqOhXzzaS4RBNNplqz7Qrw,Pedati Prumpung,4.4,207.0,Indonesia
+H00231P,Sunter Boulevard Barat,-6.14965,106.889,ChIJmTSh4kH1aS4Rq6mucIr6VDQ,Sunter Boulevard Barat 1,3.8,189.0,Indonesia
+H00261S,Walikota Jakarta Utara Arah Selatan,-6.118845,106.89347,ChIJLeiEROkfai4RtfWzAgyc3No,Walikota Jakarta Utara Arah Selatan,2.8,165.0,Indonesia
+H00175P,Plumpang,-6.12848,106.8937,ChIJ-8BkTOEfai4RMime-xOBPxg,Plumpang,4.1,159.0,Indonesia
+H00047P,Dukuh Atas,-6.205702,106.82223,ChIJpz-Z6xz0aS4R__ky766svwY,Dukuh Atas,4.2,152.0,Indonesia
+H00168P,Flyover Pondok Kopi,-6.216689,106.93054,ChIJifP-wZ6MaS4ReQGIrUwGmHA,Flyover Pondok Kopi,4.0,250.0,"Jalan Penggilingan, Penggilingan"
+H00163P,Penggilingan,-6.214132,106.93961,ChIJESRNOp6MaS4Rbq61me6ogVo,Penggilingan 2,4.9,160.0,Indonesia
+H00110P,Kota Harapan Indah 1,-6.193598,106.97335,ChIJa9QuupeLaS4R2fxwG0bNRJQ,Kota Harapan Indah 1,4.0,241.0,Jalan Raya Bekasi
+H00111P,Kota Harapan Indah 2,-6.193912,106.97356,ChIJB95UpZeLaS4RjWCIPweGxV0,Kota Harapan Indah 2,2.8,171.0,Indonesia
+H00151P,Pasar Modern Harapan Indah,-6.168544,106.97431,ChIJ9TjrUkyKaS4Rej99DcCiHlA,Pasar Modern Harapan Indah,4.2,166.0,Indonesia
+H00284P,Transera Harapan Indah,-6.152257,106.975764,ChIJZzklFUKKaS4RXgP1Q0X5Zsc,Transera Harapan Indah,4.9,102.0,Indonesia
+H00236P,Tanah Apit,-6.182793,106.97608,ChIJ-Qh9FrqLaS4R_D5N5ZZoXLA,Tanah Apit,3.5,121.0,"Jalan Harapan Indah Raya, Medan Satria"
+H00286P,Danau Sunter,-6.14121,106.85699,ChIJ69liRoT1aS4RsiTwS987e28,Danau Sunter,2.8,146.0,Indonesia
+H00009P,Bekasi Barat,-6.250045,106.99167,ChIJfUNrqjOMaS4REKudTiCxfdA,Bekasi Barat,1.0,173.0,Indonesia
+H00287P,Jembatan Item,-6.13098,106.85515,ChIJbfRx6Sgeai4RL3pd3qdQUMs,Jembatan Item,4.1,189.0,Indonesia
+H00288P,Kemayoran,-6.15889,106.85151,ChIJUdY967z1aS4RJ72gZMQeolQ,Kemayoran,4.0,156.0,Indonesia
+H00228P,Summarecon Bekasi,-6.225566,107.00281,ChIJUfbGhhyMaS4RrfPXzPDfKXY,Summarecon Bekasi,4.2,271.0,Marga Mulya
+H00247P,Terminal Bekasi,-6.249502,107.01339,ChIJcQ18sHGOaS4RneN4Atb_qK0,Terminal Bekasi,3.9,1055.0,Jalan Insinyur Haji Juanda
+H00131P,Monumen Nasional,-6.176248,106.82286,ChIJUd5FstT1aS4RFsoja4PVbHY,Monumen Nasional,4.4,1009.0,Indonesia
+H00016P,BTC,-6.258292,107.02069,ChIJec797WSOaS4R2j1VGxi8EU8,BTC,3.9,135.0,Indonesia
+H00020P,Bulak Kapal 2,-6.251121,107.02366,ChIJ6ytH8YmOaS4R0_QfxJ97gxY,Bulak Kapal 3,3.7,186.0,Indonesia
+H00019P,Bulak Kapal 1,-6.250708,107.02395,ChIJ6ytH8YmOaS4R0_QfxJ97gxY,Bulak Kapal 3,3.6,143.0,Indonesia
+H00090P,JIEXPO Kemayoran,-6.144845,106.848645,ChIJz_QUH471aS4R9obqykzl01c,JIEXPO Kemayoran,4.3,325.0,"North Jakarta, Pademangan Timur"
+H00119S,Denpasar Arah Barat,-6.233551,106.82208,ChIJ36R6auHzaS4RY50k6pki9eY,Denpasar Arah Barat,4.3,167.0,Indonesia
+H00159P,Pelabuhan Tanjung Priok,-6.104003,106.880535,ChIJ44sqO7sfai4RJUGK1maAHgA,Pelabuhan Tanjung Priok,3.5,199.0,Indonesia
+H00143P,Pasar Cakung,-6.182474,106.935491,ChIJYVE1ryKLaS4RZlgrM8FtRJk,Pasar Cakung,,,Indonesia
